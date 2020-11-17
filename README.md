@@ -8,7 +8,7 @@ For this assignment, you'll create a workout tracker. You have already been prov
 
 **Live Demo:** https://too-fit-to-quit.herokuapp.com/
 
-![markdown-preview-image](public/images/markdown-preview-image.png)
+![markdown-preview-image](public/images/main-view.png)
 
 
 ## Business Context
